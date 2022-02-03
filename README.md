@@ -1,2 +1,2 @@
 # testss
-testss repo
+testss repo for git commands demonstration
